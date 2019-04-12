@@ -2,4 +2,5 @@
 return true;
 }
 
+// test
 foo()
