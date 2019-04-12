@@ -2,5 +2,5 @@
 return true;
 }
 
-// test me now and now
+// test me now
 foo()
