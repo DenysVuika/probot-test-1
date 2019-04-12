@@ -1,6 +1,6 @@
-    function foo() {
-return true;
+function foo() {
+  return true;
 }
 
 // test me now
-foo()
+foo();
