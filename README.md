@@ -2,6 +2,8 @@
 
 some test
 
+## test
+
 another test
 
 ## sub-heading
