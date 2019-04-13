@@ -1,5 +1,3 @@
-  function foo() {
+function foo() {}
 
- }
-
-//test 
+//test
