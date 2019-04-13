@@ -6,6 +6,6 @@ function someotherfunction() {
   return true;
 }
 
-function     test() {
-    return false
+function test() {
+  return false;
 }
