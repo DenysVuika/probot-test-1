@@ -1,0 +1,8 @@
+modules:
+  - pr.prettier
+  - issue.thanks
+
+prettier:
+  autoFix: true
+  options:
+    singleQuote: true
