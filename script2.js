@@ -4,7 +4,7 @@
 
     function someotherfunction() {
   return true;
-}
+ }
 
       function     test() {
     return false
