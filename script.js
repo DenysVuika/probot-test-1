@@ -4,3 +4,5 @@ function foo() {
 
 // test me now
 foo();
+
+// test
