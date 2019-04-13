@@ -1,7 +1,7 @@
-fooBar();
+    fooBar();
 
 // some test
 
-function someotherfunction() {
+    function someotherfunction() {
   return true;
 }
