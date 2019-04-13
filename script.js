@@ -1,8 +1,8 @@
-  function foo() {
+function foo() {
   return true;
 }
 
 // test me now
-  foo();
+foo();
 
 // test
