@@ -2,6 +2,6 @@ fooBar()
 
 // some test
 
-    someotherfunction() {
+    function someotherfunction() {
         return true;
     }

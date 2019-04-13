@@ -1,4 +1,4 @@
- foo() {
+  function foo() {
 
  }
 
