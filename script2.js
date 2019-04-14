@@ -1,11 +1,11 @@
-     fooBar();
+fooBar();
 
 // some test
 
-    function someotherfunction() {
+function someotherfunction() {
   return true;
- }
+}
 
-      function     test() {
-    return false
+function test() {
+  return false;
 }
