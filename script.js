@@ -1,4 +1,4 @@
-function foo() {
+   function foo() {
   return true;
 }
 
