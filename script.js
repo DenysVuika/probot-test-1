@@ -3,6 +3,6 @@
 }
 
 // test me now
-foo();
+foo( );
 
 // test
