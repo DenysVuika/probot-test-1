@@ -3,7 +3,7 @@
 // some test
 
 function someotherfunction() {
-  return true;
+    return true
 }
 
 function test() {
