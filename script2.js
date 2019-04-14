@@ -1,4 +1,4 @@
-fooBar();
+  fooBar();
 
 // some test
 
